@@ -1,0 +1,17 @@
+# Environment variables
+.env
+
+# Execution scripts and binaries
+*.bat
+ffmpeg-8.0.1-essentials_build/
+
+# Dependency management
+node_modules/
+package-lock.json
+
+# PM2 and runtime files
+pm2_list.json
+*-player-script.js
+
+# Git metadata
+.git/
